@@ -1,0 +1,17 @@
+HAWK-ARS-01/_pull-bucket/01_Singles
+├── 01_will-you-listen.json
+├── 01_will-you-listen.md
+├── 02_psyops.json
+├── 02_psyops.md
+├── 03_incantations.json
+├── 03_incantations.md
+├── 04_mind-kontrol.json
+├── 04_mind-kontrol.md
+├── 05_return-of-kings.json
+├── 05_return-of-kings.md
+├── 06_politicians.json
+├── 06_politicians.md
+├── 07_the-vow.json
+└── 07_the-vow.md
+
+1 directory, 14 files

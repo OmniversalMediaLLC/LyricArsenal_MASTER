@@ -1,0 +1,17 @@
+[IMPORT ROOT] /home/dianaswan/LyricArsenal_Master/_imports/HAWK-ARS-03/01_Malicious_EP
+[WORKSPACE]   /home/dianaswan/LyricArsenal_Master/HAWK-ARS-03/_workspace/01_Malicious_EP
+[PULL-BUCKET] /home/dianaswan/LyricArsenal_Master/HAWK-ARS-03/_pull-bucket/01_Malicious_EP
+
+
+⚠️ Extra tracks in WORKSPACE (not in imports):
+   - 01_malicious
+   - 02_gang-shit
+   - 03_the-motherfucking-problem
+   - 04_im-him
+
+⚠️ Extra tracks in PULL-BUCKET (not in imports):
+   - 01_malicious
+   - 02_gang-shit
+   - 03_the-motherfucking-problem
+   - 04_im-him
+

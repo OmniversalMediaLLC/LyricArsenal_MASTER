@@ -1,0 +1,35 @@
+HAWK-ARS-03/_workspace/01_Malicious_EP
+├── 01_malicious
+│   ├── audio
+│   ├── data
+│   │   ├── lyrics.md
+│   │   └── metadata.json
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 02_gang-shit
+│   ├── audio
+│   ├── data
+│   │   ├── lyrics.md
+│   │   └── metadata.json
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 03_the-motherfucking-problem
+│   ├── audio
+│   ├── data
+│   │   ├── lyrics.md
+│   │   └── metadata.json
+│   ├── images
+│   ├── README.md
+│   └── video
+└── 04_im-him
+    ├── audio
+    ├── data
+    │   ├── lyrics.md
+    │   └── metadata.json
+    ├── images
+    ├── README.md
+    └── video
+
+21 directories, 12 files

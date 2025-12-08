@@ -1,0 +1,12 @@
+_imports/HAWK-ARS-00/03_phase2/04_malicious
+├── 01_malicious.ipynb
+├── 01-malicious.md
+├── 02_gang_shit.ipynb
+├── 02-gang_shit.md
+├── 03_the_motherfucking_problem.ipynb
+├── 03-the_motherfucking_problem.md
+├── 04_im_him.ipynb
+├── 04-im_him.md
+└── Malicious_Arsenal.md
+
+1 directory, 9 files

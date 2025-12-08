@@ -1,0 +1,130 @@
+.
+├── audio
+│   ├── HAWK-BAP-01
+│   │   └── warning_shots.mp3
+│   ├── HAWK-BAP-02
+│   │   └── behold_a_pale_horse.mp3
+│   ├── HAWK-BAP-03
+│   │   └── kamikaze.mp3
+│   ├── HAWK-BAP-04
+│   │   └── whistle_blower.mp3
+│   ├── HAWK-BAP-05
+│   │   └── scripture.mp3
+│   ├── HAWK-BAP-06
+│   │   └── superstitious.mp3
+│   ├── HAWK-BAP-07
+│   │   └── menace_to_society.mp3
+│   ├── HAWK-BAP-08
+│   │   └── semi-automatic.mp3
+│   ├── HAWK-BAP-09
+│   │   └── reverse_this_curse.mp3
+│   ├── HAWK-BAP-10
+│   │   └── kt.mp3
+│   ├── HAWK-BAP-11
+│   │   ├── The Story Celebrated Throughout Time.mp3
+│   │   └── the_story_celebrated_throughout_time.mp3
+│   ├── HAWK-FD-01
+│   │   └── swordfish.mp3
+│   ├── HAWK-FD-02
+│   │   └── mic_check.mp3
+│   ├── HAWK-FD-03
+│   │   └── shakur.mp3
+│   ├── HAWK-FD-04
+│   │   └── last_one_left.mp3
+│   ├── HAWK-FD-05
+│   │   └── full_disclosure.mp3
+│   ├── HAWK-FD-06
+│   │   └── lifted.mp3
+│   ├── HAWK-FD-07
+│   │   └── fuck_society.mp3
+│   ├── HAWK-FD-08
+│   │   └── ashes.mp3
+│   ├── HAWK-FD-09
+│   │   └── haunted.mp3
+│   ├── HAWK-FD-10
+│   │   └── monumental.mp3
+│   ├── HAWK-FD-11
+│   │   └── trafficked.mp3
+│   ├── HAWK-FD-12
+│   │   └── hocus_pocus.mp3
+│   ├── HAWK-FD-13
+│   │   └── syntax.mp3
+│   ├── HAWK-FD-14
+│   │   └── stay_real.mp3
+│   ├── HAWK-FD-15
+│   │   └── the_story_of_our_former_glory.mp3
+│   ├── HAWK-M-01
+│   │   └── soft_disclosure.mp3
+│   ├── HAWK-M-02
+│   │   └── abreactions.mp3
+│   ├── HAWK-M-03
+│   │   └── eyes_wide_open.mp3
+│   ├── HAWK-M-04
+│   │   └── delta_squad.mp3
+│   ├── HAWK-M-05
+│   │   └── implants.mp3
+│   ├── HAWK-M-06
+│   │   └── illuminati.mp3
+│   ├── HAWK-M-07
+│   │   └── fema.mp3
+│   ├── HAWK-M-08
+│   │   └── the_antidote.mp3
+│   ├── HAWK-M-09
+│   │   └── avalanche.mp3
+│   ├── HAWK-M-10
+│   │   └── artificial_intelligence.mp3
+│   ├── HAWK-M-11
+│   │   └── legion.mp3
+│   ├── HAWK-M-12
+│   │   └── when_my_elites_surround.mp3
+│   ├── HAWK-M-13
+│   │   └── reincarnated_2_resist.mp3
+│   ├── HAWK-ME-01
+│   │   └── malicious.mp3
+│   ├── HAWK-ME-02
+│   │   └── gang_shit.mp3
+│   ├── HAWK-ME-03
+│   │   └── the_motherfucking_problem.mp3
+│   ├── HAWK-ME-04
+│   │   └── im_him.mp3
+│   ├── HAWK-SB-01
+│   │   └── psychological_warfare.mp3
+│   ├── HAWK-SB-02
+│   │   └── down_the_rabbit_hole.mp3
+│   ├── HAWK-SB-03
+│   │   └── domestic_terrorist.mp3
+│   ├── HAWK-SB-04
+│   │   └── relentless.mp3
+│   ├── HAWK-SB-05
+│   │   └── never_heard_of_me.mp3
+│   ├── HAWK-SB-06
+│   │   └── spiteful_poetry.mp3
+│   ├── HAWK-SB-07
+│   │   └── the_devils_in_the_details.mp3
+│   ├── HAWK-SB-08
+│   │   └── the_game.mp3
+│   ├── HAWK-SB-09
+│   │   └── the_shadow_is_rising.mp3
+│   ├── HAWK-SB-10
+│   │   └── when_shit_gets_real.mp3
+│   ├── HAWK-SB-11
+│   │   └── synthesis.mp3
+│   ├── HAWK-SB-12
+│   │   └── invokation.mp3
+│   ├── HAWK-SB-13
+│   │   └── krystal_klear.mp3
+│   ├── HAWK-SG-01
+│   │   └── will_you_listen.mp3
+│   ├── HAWK-SG-02
+│   │   └── psyops.mp3
+│   ├── HAWK-SG-03
+│   │   └── Incantations.mp3
+│   ├── HAWK-SG-04
+│   │   └── MindControl.mp3
+│   ├── HAWK-SG-05
+│   │   └── return_of_kings.mp3
+│   └── HAWK-SG-06
+│       └── politicians.mp3
+└── music_files.txt
+
+64 directories, 64 files

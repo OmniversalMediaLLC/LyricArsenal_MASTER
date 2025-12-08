@@ -1,0 +1,419 @@
+.
+├── image_files.txt
+└── images
+    ├── covers
+    │   ├── HAWK-BAP-01
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-02
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-03
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-04
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-05
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-06
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-07
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-08
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-09
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-10
+    │   │   └── album_art.png
+    │   ├── HAWK-BAP-11
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-01
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-02
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-03
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-04
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-05
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-06
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-07
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-08
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-09
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-10
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-11
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-12
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-13
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-14
+    │   │   └── album_art.png
+    │   ├── HAWK-FD-15
+    │   │   └── album_art.png
+    │   ├── HAWK-M-01
+    │   │   └── album_art.png
+    │   ├── HAWK-M-02
+    │   │   └── album_art.png
+    │   ├── HAWK-M-03
+    │   │   └── album_art.png
+    │   ├── HAWK-M-04
+    │   │   └── album_art.png
+    │   ├── HAWK-M-05
+    │   │   └── album_art.png
+    │   ├── HAWK-M-06
+    │   │   └── album_art.png
+    │   ├── HAWK-M-07
+    │   │   └── album_art.png
+    │   ├── HAWK-M-08
+    │   │   └── album_art.png
+    │   ├── HAWK-M-09
+    │   │   └── album_art.png
+    │   ├── HAWK-M-10
+    │   │   └── album_art.png
+    │   ├── HAWK-M-11
+    │   │   └── album_art.png
+    │   ├── HAWK-M-12
+    │   │   └── album_art.png
+    │   ├── HAWK-M-13
+    │   │   └── album_art.png
+    │   ├── HAWK-ME-01
+    │   │   └── album_art.png
+    │   ├── HAWK-ME-02
+    │   │   └── album_art.png
+    │   ├── HAWK-ME-03
+    │   │   └── album_art.png
+    │   ├── HAWK-ME-04
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-01
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-02
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-03
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-04
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-05
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-06
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-07
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-08
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-09
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-10
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-11
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-12
+    │   │   └── album_art.png
+    │   ├── HAWK-SB-13
+    │   │   └── album_art.png
+    │   ├── HAWK-SG-01
+    │   │   └── album_art.png
+    │   ├── HAWK-SG-02
+    │   │   └── album_art.png
+    │   ├── HAWK-SG-03
+    │   │   └── album_art.png
+    │   ├── HAWK-SG-04
+    │   │   └── album_art.png
+    │   ├── HAWK-SG-05
+    │   │   └── album_art.png
+    │   └── HAWK-SG-06
+    │       └── album_art.png
+    ├── logos
+    │   ├── Andromeda_Backdrop.png
+    │   ├── OmniversalAether_Background.png
+    │   ├── beneath_the_surface_emblem
+    │   │   └── Beneath_The_Surface_Emblem.png
+    │   ├── branches
+    │   │   ├── Commerce_Symbol.png
+    │   │   ├── Community_Symbol.png
+    │   │   ├── Consciousness_Symbol.png
+    │   │   ├── Creative_Symbol.png
+    │   │   └── Infrastructure_Symbol.png
+    │   ├── favicon.svg
+    │   ├── hawk_emblem
+    │   │   ├── Hawk_Title.png
+    │   │   ├── hawk_emblem_black_white.png
+    │   │   ├── hawk_emblem_neongreen_black.png
+    │   │   ├── hawk_emblem_red_solid.png
+    │   │   ├── hawk_emblem_red_transparent.png
+    │   │   └── hawkeye_emblem_teal.png
+    │   ├── omniversal_symbol
+    │   │   ├── 20250404_1830_Celtic Cosmic Fusion_storyboard_01jr1erx78fbcr3wenzxp9cqj4.gif
+    │   │   ├── 20250404_1845_Celtic Cosmic Harmony_loop_01jr1fnqtyfmvb7afm6hbfcj20.gif
+    │   │   ├── 75755DA4-B097-43EC-8A2D-0AC087272F7B.png
+    │   │   ├── 81448A44-17D5-4DCD-9446-37AAE653F586.png
+    │   │   ├── Beneath_The_Surface_Emblem.png
+    │   │   ├── EAF80318-BFBF-459E-9C5F-C8D2128789E4.png
+    │   │   ├── IMG_7416.GIF
+    │   │   ├── Image.png
+    │   │   ├── OmniversalEmblem.png
+    │   │   ├── Omniversal_Favicon.png
+    │   │   ├── Omniversal_Favicon2.png
+    │   │   ├── Omniversal_Symbol_001.PNG
+    │   │   ├── Omniversal_Symbol_002.PNG
+    │   │   ├── Omniversal_Symbol_003.PNG
+    │   │   ├── Omniversal_Symbol_004.PNG
+    │   │   ├── Omniversal_Symbol_005.PNG
+    │   │   ├── Omniversal_Symbol_006.PNG
+    │   │   ├── R2R-Backgorund.png
+    │   │   ├── Reincarnated2Resist_Emblem.png
+    │   │   ├── Reincarnated_Hawk_Emblem.png
+    │   │   ├── The_Omniversal_Tree-Aether_Map.png
+    │   │   ├── animation_flow
+    │   │   │   ├── 01-Omni_Trans_SM.png
+    │   │   │   ├── 03-Omni_Teal_Smallest.png
+    │   │   │   ├── 04-Omni_Teal_Smallest_Dark.PNG
+    │   │   │   ├── 05-Omniversal_Symbol_005 copy.PNG
+    │   │   │   ├── 06-Omni_Violet_MaxTransition.PNG
+    │   │   │   ├── 07-Omni_Teal_MaxTransition.PNG
+    │   │   │   ├── 08-Omniversal_Symbol_003 copy.PNG
+    │   │   │   ├── 09-Omni_Teal_Max.png
+    │   │   │   ├── 10-Omni_Trans_LG.png
+    │   │   │   └── Omni_Violet_Glimmer.png
+    │   │   ├── omniversal-info-banner.png
+    │   │   ├── omniversal_symbol_coreglow_black.png
+    │   │   ├── omniversal_symbol_cosmic_purple_blue.png
+    │   │   ├── omniversal_symbol_fullpattern_white.png
+    │   │   ├── omniversal_symbol_galaxy_blackback.png
+    │   │   ├── omniversal_symbol_galaxycut_white.png
+    │   │   └── omniversal_tree.png
+    │   └── reincarnated2resist_emblem
+    │       ├── R2R_emblem.png
+    │       ├── Reincarnated2Resist_Emblem.png
+    │       └── Reincarnated_Hawk_Emblem.png
+    └── photos
+        ├── HE-001
+        │   ├── Hawk_Vision_T-Shirt_alt.png
+        │   ├── Hawk_Vision_T-Shirt_back.png
+        │   ├── Hawk_Vision_T-Shirt_front.png
+        │   └── Hawk_Vision_T-Shirt_side.png
+        ├── HE-002
+        │   ├── Graffiti_Eye_Long_Sleeve_alt.png
+        │   ├── Graffiti_Eye_Long_Sleeve_back.png
+        │   ├── Graffiti_Eye_Long_Sleeve_front.png
+        │   └── Graffiti_Eye_Long_Sleeve_side.png
+        ├── HE-003
+        │   ├── Visionary_Lyrics_Hoodie_alt.png
+        │   ├── Visionary_Lyrics_Hoodie_back.png
+        │   ├── Visionary_Lyrics_Hoodie_front.png
+        │   └── Visionary_Lyrics_Hoodie_side.png
+        ├── HE-004
+        │   ├── Winged_Mic_Bomber_Jacket_alt.png
+        │   ├── Winged_Mic_Bomber_Jacket_back.png
+        │   ├── Winged_Mic_Bomber_Jacket_front.png
+        │   └── Winged_Mic_Bomber_Jacket_side.png
+        ├── HE-005
+        │   ├── Hawk_Emblem_Jersey_alt.png
+        │   ├── Hawk_Emblem_Jersey_back.png
+        │   ├── Hawk_Emblem_Jersey_front.png
+        │   └── Hawk_Emblem_Jersey_side.png
+        ├── HE-006
+        │   ├── Urban_Camo_Snapback_Cap_alt.png
+        │   ├── Urban_Camo_Snapback_Cap_back.png
+        │   ├── Urban_Camo_Snapback_Cap_front.png
+        │   └── Urban_Camo_Snapback_Cap_side.png
+        ├── HE-007
+        │   ├── Eye_of_the_Hawk_Phone_Case_alt.png
+        │   ├── Eye_of_the_Hawk_Phone_Case_back.png
+        │   ├── Eye_of_the_Hawk_Phone_Case_front.png
+        │   └── Eye_of_the_Hawk_Phone_Case_side.png
+        ├── HE-008
+        │   ├── Golden_Hawk_Keychain_alt.png
+        │   ├── Golden_Hawk_Keychain_back.png
+        │   ├── Golden_Hawk_Keychain_front.png
+        │   └── Golden_Hawk_Keychain_side.png
+        ├── HE-009
+        │   ├── Hawk_Eye_Enamel_Pin_alt.png
+        │   ├── Hawk_Eye_Enamel_Pin_back.png
+        │   ├── Hawk_Eye_Enamel_Pin_front.png
+        │   └── Hawk_Eye_Enamel_Pin_side.png
+        ├── HE-010
+        │   ├── Eye_on_the_Prize_Wristband_alt.png
+        │   ├── Eye_on_the_Prize_Wristband_back.png
+        │   ├── Eye_on_the_Prize_Wristband_front.png
+        │   └── Eye_on_the_Prize_Wristband_side.png
+        ├── HE-011
+        │   ├── Graffiti_Tag_Poster_alt.png
+        │   ├── Graffiti_Tag_Poster_back.png
+        │   ├── Graffiti_Tag_Poster_front.png
+        │   └── Graffiti_Tag_Poster_side.png
+        ├── HE-012
+        │   ├── City_Skyline_Hawk_Poster_alt.png
+        │   ├── City_Skyline_Hawk_Poster_back.png
+        │   ├── City_Skyline_Hawk_Poster_front.png
+        │   └── City_Skyline_Hawk_Poster_side.png
+        ├── HE-013
+        │   ├── Winged_Mic_Art_Poster_alt.png
+        │   ├── Winged_Mic_Art_Poster_back.png
+        │   ├── Winged_Mic_Art_Poster_front.png
+        │   └── Winged_Mic_Art_Poster_side.png
+        ├── HE-014
+        │   ├── Hawk_Eye_Logo_Sticker_alt.png
+        │   ├── Hawk_Eye_Logo_Sticker_back.png
+        │   ├── Hawk_Eye_Logo_Sticker_front.png
+        │   └── Hawk_Eye_Logo_Sticker_side.png
+        ├── HE-015
+        │   ├── Street_Graffiti_Sticker_alt.png
+        │   ├── Street_Graffiti_Sticker_back.png
+        │   ├── Street_Graffiti_Sticker_front.png
+        │   └── Street_Graffiti_Sticker_side.png
+        ├── OM-001
+        │   ├── Omniversal_Logo_T-Shirt_alt.png
+        │   ├── Omniversal_Logo_T-Shirt_back.png
+        │   ├── Omniversal_Logo_T-Shirt_front.png
+        │   └── Omniversal_Logo_T-Shirt_side.png
+        ├── OM-002
+        │   ├── Galactic_Dreams_T-Shirt_alt.png
+        │   ├── Galactic_Dreams_T-Shirt_back.jpeg
+        │   ├── Galactic_Dreams_T-Shirt_front.png
+        │   └── Galactic_Dreams_T-Shirt_side.jpeg
+        ├── OM-003
+        │   ├── Cosmic_Unity_Hoodie_alt.png
+        │   ├── Cosmic_Unity_Hoodie_back.png
+        │   ├── Cosmic_Unity_Hoodie_front.png
+        │   └── Cosmic_Unity_Hoodie_side.png
+        ├── OM-004
+        │   ├── Infinite_Cosmos_Long_Sleeve_alt.png
+        │   ├── Infinite_Cosmos_Long_Sleeve_back.png
+        │   ├── Infinite_Cosmos_Long_Sleeve_front.png
+        │   └── Infinite_Cosmos_Long_Sleeve_side.png
+        ├── OM-005
+        │   ├── Nebula_Bomber_Jacket_alt.png
+        │   ├── Nebula_Bomber_Jacket_back.png
+        │   ├── Nebula_Bomber_Jacket_front.png
+        │   └── Nebula_Bomber_Jacket_side.png
+        ├── OM-006
+        │   ├── Galaxy_Phone_Case_alt.png
+        │   ├── Galaxy_Phone_Case_back.png
+        │   ├── Galaxy_Phone_Case_front.png
+        │   └── Galaxy_Phone_Case_side.png
+        ├── OM-007
+        │   ├── Cosmic_Coffee_Mug_alt.png
+        │   ├── Cosmic_Coffee_Mug_back.png
+        │   ├── Cosmic_Coffee_Mug_front.png
+        │   └── Cosmic_Coffee_Mug_side.png
+        ├── OM-008
+        │   ├── Omniversal_Logo_Keychain_alt.png
+        │   ├── Omniversal_Logo_Keychain_back.png
+        │   ├── Omniversal_Logo_Keychain_front.png
+        │   └── Omniversal_Logo_Keychain_side.png
+        ├── OM-009
+        │   ├── Celestial_Canvas_Tote_Bag_alt.png
+        │   ├── Celestial_Canvas_Tote_Bag_back.png
+        │   ├── Celestial_Canvas_Tote_Bag_front.png
+        │   └── Celestial_Canvas_Tote_Bag_side.png
+        ├── OM-010
+        │   ├── Stardust_Cap_alt.png
+        │   ├── Stardust_Cap_back.png
+        │   ├── Stardust_Cap_front.png
+        │   └── Stardust_Cap_side.png
+        ├── OM-011
+        │   ├── Omniversal_Galaxy_Poster_alt.png
+        │   ├── Omniversal_Galaxy_Poster_back.png
+        │   ├── Omniversal_Galaxy_Poster_front.png
+        │   └── Omniversal_Galaxy_Poster_side.png
+        ├── OM-012
+        │   ├── Cosmic_Mandala_Poster_alt.png
+        │   ├── Cosmic_Mandala_Poster_back.png
+        │   ├── Cosmic_Mandala_Poster_front.png
+        │   └── Cosmic_Mandala_Poster_side.png
+        ├── OM-013
+        │   ├── Celestial_Alignment_Poster_alt.png
+        │   ├── Celestial_Alignment_Poster_back.png
+        │   ├── Celestial_Alignment_Poster_front.png
+        │   └── Celestial_Alignment_Poster_side.png
+        ├── OM-014
+        │   ├── Omniversal_Logo_Sticker_alt.png
+        │   ├── Omniversal_Logo_Sticker_back.png
+        │   ├── Omniversal_Logo_Sticker_front.png
+        │   └── Omniversal_Logo_Sticker_side.png
+        ├── OM-015
+        │   ├── Holographic_Galaxy_Sticker_alt.png
+        │   ├── Holographic_Galaxy_Sticker_back.png
+        │   ├── Holographic_Galaxy_Sticker_front.png
+        │   └── Holographic_Galaxy_Sticker_side.png
+        ├── R2R-001
+        │   ├── Phoenix_Rebirth_T-Shirt_alt.png
+        │   ├── Phoenix_Rebirth_T-Shirt_back.png
+        │   ├── Phoenix_Rebirth_T-Shirt_front.png
+        │   └── Phoenix_Rebirth_T-Shirt_side.png
+        ├── R2R-002
+        │   ├── Resist_Forever_Hoodie_alt.png
+        │   ├── Resist_Forever_Hoodie_back.png
+        │   ├── Resist_Forever_Hoodie_front.png
+        │   └── Resist_Forever_Hoodie_side.png
+        ├── R2R-003
+        │   ├── Rebel_Camo_Jacket_alt.png
+        │   ├── Rebel_Camo_Jacket_back.png
+        │   ├── Rebel_Camo_Jacket_front.png
+        │   └── Rebel_Camo_Jacket_side.png
+        ├── R2R-004
+        │   ├── No_Chains_Long_Sleeve_alt.png
+        │   ├── No_Chains_Long_Sleeve_back.png
+        │   ├── No_Chains_Long_Sleeve_front.png
+        │   └── No_Chains_Long_Sleeve_side.png
+        ├── R2R-005
+        │   ├── Resistance_Symbol_Tank_Top_alt.png
+        │   ├── Resistance_Symbol_Tank_Top_back.png
+        │   ├── Resistance_Symbol_Tank_Top_front.png
+        │   └── Resistance_Symbol_Tank_Top_side.png
+        ├── R2R-006
+        │   ├── Resistance_Fist_Keychain_alt.png
+        │   ├── Resistance_Fist_Keychain_back.png
+        │   ├── Resistance_Fist_Keychain_front.png
+        │   └── Resistance_Fist_Keychain_side.png
+        ├── R2R-007
+        │   ├── Phoenix_Flame_Enamel_Pin_alt.png
+        │   ├── Phoenix_Flame_Enamel_Pin_back.png
+        │   ├── Phoenix_Flame_Enamel_Pin_front.png
+        │   └── Phoenix_Flame_Enamel_Pin_side.png
+        ├── R2R-008
+        │   ├── Never_Surrender_Wristband_alt.png
+        │   ├── Never_Surrender_Wristband_back.png
+        │   ├── Never_Surrender_Wristband_front.png
+        │   └── Never_Surrender_Wristband_side.png
+        ├── R2R-009
+        │   ├── Embroidered_Rebel_Patch_alt.png
+        │   ├── Embroidered_Rebel_Patch_back.png
+        │   ├── Embroidered_Rebel_Patch_front.png
+        │   └── Embroidered_Rebel_Patch_side.png
+        ├── R2R-010
+        │   ├── Freedom_Bandana_alt.png
+        │   ├── Freedom_Bandana_back.png
+        │   ├── Freedom_Bandana_front.png
+        │   └── Freedom_Bandana_side.png
+        ├── R2R-011
+        │   ├── Phoenix_Rising_Poster_alt.png
+        │   ├── Phoenix_Rising_Poster_back.png
+        │   ├── Phoenix_Rising_Poster_front.png
+        │   └── Phoenix_Rising_Poster_side.png
+        ├── R2R-012
+        │   ├── Fist_of_Resistance_Poster_alt.png
+        │   ├── Fist_of_Resistance_Poster_back.png
+        │   ├── Fist_of_Resistance_Poster_front.png
+        │   └── Fist_of_Resistance_Poster_side.png
+        ├── R2R-013
+        │   ├── Rebellion_Quote_Poster_alt.png
+        │   ├── Rebellion_Quote_Poster_back.png
+        │   ├── Rebellion_Quote_Poster_front.png
+        │   └── Rebellion_Quote_Poster_side.png
+        ├── R2R-014
+        │   ├── Reincarnated2Resist_Logo_Sticker_alt.png
+        │   ├── Reincarnated2Resist_Logo_Sticker_back.png
+        │   ├── Reincarnated2Resist_Logo_Sticker_front.png
+        │   └── Reincarnated2Resist_Logo_Sticker_side.png
+        └── R2R-015
+            ├── Phoenix_Emblem_Sticker_alt.png
+            ├── Phoenix_Emblem_Sticker_back.png
+            ├── Phoenix_Emblem_Sticker_front.png
+            └── Phoenix_Emblem_Sticker_side.png
+
+118 directories, 299 files

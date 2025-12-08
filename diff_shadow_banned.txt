@@ -1,0 +1,35 @@
+[IMPORT ROOT] /home/dianaswan/LyricArsenal_Master/_imports/HAWK-ARS-03/02_Shadow_Banned
+[WORKSPACE]   /home/dianaswan/LyricArsenal_Master/HAWK-ARS-03/_workspace/02_Shadow_Banned
+[PULL-BUCKET] /home/dianaswan/LyricArsenal_Master/HAWK-ARS-03/_pull-bucket/02_Shadow_Banned
+
+
+⚠️ Extra tracks in WORKSPACE (not in imports):
+   - 01_psychological-warfare
+   - 02_down-the-rabbit-hole
+   - 03_domestic-terrorist
+   - 04_relentless
+   - 05_never-heard-of-me
+   - 06_spiteful-poetry
+   - 07_devils-in-the-details
+   - 08_the-game
+   - 09_the-shadow-is-rising
+   - 10_when-shit-gets-real
+   - 11_synthesis
+   - 12_invokation
+   - 13_krystal-klear
+
+⚠️ Extra tracks in PULL-BUCKET (not in imports):
+   - 01_psychological-warfare
+   - 02_down-the-rabbit-hole
+   - 03_domestic-terrorist
+   - 04_relentless
+   - 05_never-heard-of-me
+   - 06_spiteful-poetry
+   - 07_devils-in-the-details
+   - 08_the-game
+   - 09_the-shadow-is-rising
+   - 10_when-shit-gets-real
+   - 11_synthesis
+   - 12_invokation
+   - 13_krystal-klear
+

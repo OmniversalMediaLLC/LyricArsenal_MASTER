@@ -1,0 +1,792 @@
+.
+├── ACTUAL_IMAGES
+│   ├── image_files.txt
+│   └── images
+│       ├── covers
+│       │   ├── HAWK-BAP-01
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-02
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-03
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-04
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-05
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-06
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-07
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-08
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-09
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-10
+│       │   │   └── album_art.png
+│       │   ├── HAWK-BAP-11
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-01
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-02
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-03
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-04
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-05
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-06
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-07
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-08
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-09
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-10
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-11
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-12
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-13
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-14
+│       │   │   └── album_art.png
+│       │   ├── HAWK-FD-15
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-01
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-02
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-03
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-04
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-05
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-06
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-07
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-08
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-09
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-10
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-11
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-12
+│       │   │   └── album_art.png
+│       │   ├── HAWK-M-13
+│       │   │   └── album_art.png
+│       │   ├── HAWK-ME-01
+│       │   │   └── album_art.png
+│       │   ├── HAWK-ME-02
+│       │   │   └── album_art.png
+│       │   ├── HAWK-ME-03
+│       │   │   └── album_art.png
+│       │   ├── HAWK-ME-04
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-01
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-02
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-03
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-04
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-05
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-06
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-07
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-08
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-09
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-10
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-11
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-12
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SB-13
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SG-01
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SG-02
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SG-03
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SG-04
+│       │   │   └── album_art.png
+│       │   ├── HAWK-SG-05
+│       │   │   └── album_art.png
+│       │   └── HAWK-SG-06
+│       │       └── album_art.png
+│       ├── logos
+│       │   ├── Andromeda_Backdrop.png
+│       │   ├── beneath_the_surface_emblem
+│       │   │   └── Beneath_The_Surface_Emblem.png
+│       │   ├── branches
+│       │   │   ├── Commerce_Symbol.png
+│       │   │   ├── Community_Symbol.png
+│       │   │   ├── Consciousness_Symbol.png
+│       │   │   ├── Creative_Symbol.png
+│       │   │   └── Infrastructure_Symbol.png
+│       │   ├── favicon.svg
+│       │   ├── hawk_emblem
+│       │   │   ├── hawk_emblem_black_white.png
+│       │   │   ├── hawk_emblem_neongreen_black.png
+│       │   │   ├── hawk_emblem_red_solid.png
+│       │   │   ├── hawk_emblem_red_transparent.png
+│       │   │   ├── hawkeye_emblem_teal.png
+│       │   │   └── Hawk_Title.png
+│       │   ├── OmniversalAether_Background.png
+│       │   ├── omniversal_symbol
+│       │   │   ├── 20250404_1830_Celtic Cosmic Fusion_storyboard_01jr1erx78fbcr3wenzxp9cqj4.gif
+│       │   │   ├── 20250404_1845_Celtic Cosmic Harmony_loop_01jr1fnqtyfmvb7afm6hbfcj20.gif
+│       │   │   ├── 75755DA4-B097-43EC-8A2D-0AC087272F7B.png
+│       │   │   ├── 81448A44-17D5-4DCD-9446-37AAE653F586.png
+│       │   │   ├── animation_flow
+│       │   │   │   ├── 01-Omni_Trans_SM.png
+│       │   │   │   ├── 03-Omni_Teal_Smallest.png
+│       │   │   │   ├── 04-Omni_Teal_Smallest_Dark.PNG
+│       │   │   │   ├── 05-Omniversal_Symbol_005 copy.PNG
+│       │   │   │   ├── 06-Omni_Violet_MaxTransition.PNG
+│       │   │   │   ├── 07-Omni_Teal_MaxTransition.PNG
+│       │   │   │   ├── 08-Omniversal_Symbol_003 copy.PNG
+│       │   │   │   ├── 09-Omni_Teal_Max.png
+│       │   │   │   ├── 10-Omni_Trans_LG.png
+│       │   │   │   └── Omni_Violet_Glimmer.png
+│       │   │   ├── Beneath_The_Surface_Emblem.png
+│       │   │   ├── EAF80318-BFBF-459E-9C5F-C8D2128789E4.png
+│       │   │   ├── Image.png
+│       │   │   ├── IMG_7416.GIF
+│       │   │   ├── OmniversalEmblem.png
+│       │   │   ├── Omniversal_Favicon2.png
+│       │   │   ├── Omniversal_Favicon.png
+│       │   │   ├── omniversal-info-banner.png
+│       │   │   ├── Omniversal_Symbol_001.PNG
+│       │   │   ├── Omniversal_Symbol_002.PNG
+│       │   │   ├── Omniversal_Symbol_003.PNG
+│       │   │   ├── Omniversal_Symbol_004.PNG
+│       │   │   ├── Omniversal_Symbol_005.PNG
+│       │   │   ├── Omniversal_Symbol_006.PNG
+│       │   │   ├── omniversal_symbol_coreglow_black.png
+│       │   │   ├── omniversal_symbol_cosmic_purple_blue.png
+│       │   │   ├── omniversal_symbol_fullpattern_white.png
+│       │   │   ├── omniversal_symbol_galaxy_blackback.png
+│       │   │   ├── omniversal_symbol_galaxycut_white.png
+│       │   │   ├── omniversal_tree.png
+│       │   │   ├── R2R-Backgorund.png
+│       │   │   ├── Reincarnated2Resist_Emblem.png
+│       │   │   ├── Reincarnated_Hawk_Emblem.png
+│       │   │   └── The_Omniversal_Tree-Aether_Map.png
+│       │   └── reincarnated2resist_emblem
+│       │       ├── R2R_emblem.png
+│       │       ├── Reincarnated2Resist_Emblem.png
+│       │       └── Reincarnated_Hawk_Emblem.png
+│       └── photos
+│           ├── HE-001
+│           │   ├── Hawk_Vision_T-Shirt_alt.png
+│           │   ├── Hawk_Vision_T-Shirt_back.png
+│           │   ├── Hawk_Vision_T-Shirt_front.png
+│           │   └── Hawk_Vision_T-Shirt_side.png
+│           ├── HE-002
+│           │   ├── Graffiti_Eye_Long_Sleeve_alt.png
+│           │   ├── Graffiti_Eye_Long_Sleeve_back.png
+│           │   ├── Graffiti_Eye_Long_Sleeve_front.png
+│           │   └── Graffiti_Eye_Long_Sleeve_side.png
+│           ├── HE-003
+│           │   ├── Visionary_Lyrics_Hoodie_alt.png
+│           │   ├── Visionary_Lyrics_Hoodie_back.png
+│           │   ├── Visionary_Lyrics_Hoodie_front.png
+│           │   └── Visionary_Lyrics_Hoodie_side.png
+│           ├── HE-004
+│           │   ├── Winged_Mic_Bomber_Jacket_alt.png
+│           │   ├── Winged_Mic_Bomber_Jacket_back.png
+│           │   ├── Winged_Mic_Bomber_Jacket_front.png
+│           │   └── Winged_Mic_Bomber_Jacket_side.png
+│           ├── HE-005
+│           │   ├── Hawk_Emblem_Jersey_alt.png
+│           │   ├── Hawk_Emblem_Jersey_back.png
+│           │   ├── Hawk_Emblem_Jersey_front.png
+│           │   └── Hawk_Emblem_Jersey_side.png
+│           ├── HE-006
+│           │   ├── Urban_Camo_Snapback_Cap_alt.png
+│           │   ├── Urban_Camo_Snapback_Cap_back.png
+│           │   ├── Urban_Camo_Snapback_Cap_front.png
+│           │   └── Urban_Camo_Snapback_Cap_side.png
+│           ├── HE-007
+│           │   ├── Eye_of_the_Hawk_Phone_Case_alt.png
+│           │   ├── Eye_of_the_Hawk_Phone_Case_back.png
+│           │   ├── Eye_of_the_Hawk_Phone_Case_front.png
+│           │   └── Eye_of_the_Hawk_Phone_Case_side.png
+│           ├── HE-008
+│           │   ├── Golden_Hawk_Keychain_alt.png
+│           │   ├── Golden_Hawk_Keychain_back.png
+│           │   ├── Golden_Hawk_Keychain_front.png
+│           │   └── Golden_Hawk_Keychain_side.png
+│           ├── HE-009
+│           │   ├── Hawk_Eye_Enamel_Pin_alt.png
+│           │   ├── Hawk_Eye_Enamel_Pin_back.png
+│           │   ├── Hawk_Eye_Enamel_Pin_front.png
+│           │   └── Hawk_Eye_Enamel_Pin_side.png
+│           ├── HE-010
+│           │   ├── Eye_on_the_Prize_Wristband_alt.png
+│           │   ├── Eye_on_the_Prize_Wristband_back.png
+│           │   ├── Eye_on_the_Prize_Wristband_front.png
+│           │   └── Eye_on_the_Prize_Wristband_side.png
+│           ├── HE-011
+│           │   ├── Graffiti_Tag_Poster_alt.png
+│           │   ├── Graffiti_Tag_Poster_back.png
+│           │   ├── Graffiti_Tag_Poster_front.png
+│           │   └── Graffiti_Tag_Poster_side.png
+│           ├── HE-012
+│           │   ├── City_Skyline_Hawk_Poster_alt.png
+│           │   ├── City_Skyline_Hawk_Poster_back.png
+│           │   ├── City_Skyline_Hawk_Poster_front.png
+│           │   └── City_Skyline_Hawk_Poster_side.png
+│           ├── HE-013
+│           │   ├── Winged_Mic_Art_Poster_alt.png
+│           │   ├── Winged_Mic_Art_Poster_back.png
+│           │   ├── Winged_Mic_Art_Poster_front.png
+│           │   └── Winged_Mic_Art_Poster_side.png
+│           ├── HE-014
+│           │   ├── Hawk_Eye_Logo_Sticker_alt.png
+│           │   ├── Hawk_Eye_Logo_Sticker_back.png
+│           │   ├── Hawk_Eye_Logo_Sticker_front.png
+│           │   └── Hawk_Eye_Logo_Sticker_side.png
+│           ├── HE-015
+│           │   ├── Street_Graffiti_Sticker_alt.png
+│           │   ├── Street_Graffiti_Sticker_back.png
+│           │   ├── Street_Graffiti_Sticker_front.png
+│           │   └── Street_Graffiti_Sticker_side.png
+│           ├── OM-001
+│           │   ├── Omniversal_Logo_T-Shirt_alt.png
+│           │   ├── Omniversal_Logo_T-Shirt_back.png
+│           │   ├── Omniversal_Logo_T-Shirt_front.png
+│           │   └── Omniversal_Logo_T-Shirt_side.png
+│           ├── OM-002
+│           │   ├── Galactic_Dreams_T-Shirt_alt.png
+│           │   ├── Galactic_Dreams_T-Shirt_back.jpeg
+│           │   ├── Galactic_Dreams_T-Shirt_front.png
+│           │   └── Galactic_Dreams_T-Shirt_side.jpeg
+│           ├── OM-003
+│           │   ├── Cosmic_Unity_Hoodie_alt.png
+│           │   ├── Cosmic_Unity_Hoodie_back.png
+│           │   ├── Cosmic_Unity_Hoodie_front.png
+│           │   └── Cosmic_Unity_Hoodie_side.png
+│           ├── OM-004
+│           │   ├── Infinite_Cosmos_Long_Sleeve_alt.png
+│           │   ├── Infinite_Cosmos_Long_Sleeve_back.png
+│           │   ├── Infinite_Cosmos_Long_Sleeve_front.png
+│           │   └── Infinite_Cosmos_Long_Sleeve_side.png
+│           ├── OM-005
+│           │   ├── Nebula_Bomber_Jacket_alt.png
+│           │   ├── Nebula_Bomber_Jacket_back.png
+│           │   ├── Nebula_Bomber_Jacket_front.png
+│           │   └── Nebula_Bomber_Jacket_side.png
+│           ├── OM-006
+│           │   ├── Galaxy_Phone_Case_alt.png
+│           │   ├── Galaxy_Phone_Case_back.png
+│           │   ├── Galaxy_Phone_Case_front.png
+│           │   └── Galaxy_Phone_Case_side.png
+│           ├── OM-007
+│           │   ├── Cosmic_Coffee_Mug_alt.png
+│           │   ├── Cosmic_Coffee_Mug_back.png
+│           │   ├── Cosmic_Coffee_Mug_front.png
+│           │   └── Cosmic_Coffee_Mug_side.png
+│           ├── OM-008
+│           │   ├── Omniversal_Logo_Keychain_alt.png
+│           │   ├── Omniversal_Logo_Keychain_back.png
+│           │   ├── Omniversal_Logo_Keychain_front.png
+│           │   └── Omniversal_Logo_Keychain_side.png
+│           ├── OM-009
+│           │   ├── Celestial_Canvas_Tote_Bag_alt.png
+│           │   ├── Celestial_Canvas_Tote_Bag_back.png
+│           │   ├── Celestial_Canvas_Tote_Bag_front.png
+│           │   └── Celestial_Canvas_Tote_Bag_side.png
+│           ├── OM-010
+│           │   ├── Stardust_Cap_alt.png
+│           │   ├── Stardust_Cap_back.png
+│           │   ├── Stardust_Cap_front.png
+│           │   └── Stardust_Cap_side.png
+│           ├── OM-011
+│           │   ├── Omniversal_Galaxy_Poster_alt.png
+│           │   ├── Omniversal_Galaxy_Poster_back.png
+│           │   ├── Omniversal_Galaxy_Poster_front.png
+│           │   └── Omniversal_Galaxy_Poster_side.png
+│           ├── OM-012
+│           │   ├── Cosmic_Mandala_Poster_alt.png
+│           │   ├── Cosmic_Mandala_Poster_back.png
+│           │   ├── Cosmic_Mandala_Poster_front.png
+│           │   └── Cosmic_Mandala_Poster_side.png
+│           ├── OM-013
+│           │   ├── Celestial_Alignment_Poster_alt.png
+│           │   ├── Celestial_Alignment_Poster_back.png
+│           │   ├── Celestial_Alignment_Poster_front.png
+│           │   └── Celestial_Alignment_Poster_side.png
+│           ├── OM-014
+│           │   ├── Omniversal_Logo_Sticker_alt.png
+│           │   ├── Omniversal_Logo_Sticker_back.png
+│           │   ├── Omniversal_Logo_Sticker_front.png
+│           │   └── Omniversal_Logo_Sticker_side.png
+│           ├── OM-015
+│           │   ├── Holographic_Galaxy_Sticker_alt.png
+│           │   ├── Holographic_Galaxy_Sticker_back.png
+│           │   ├── Holographic_Galaxy_Sticker_front.png
+│           │   └── Holographic_Galaxy_Sticker_side.png
+│           ├── R2R-001
+│           │   ├── Phoenix_Rebirth_T-Shirt_alt.png
+│           │   ├── Phoenix_Rebirth_T-Shirt_back.png
+│           │   ├── Phoenix_Rebirth_T-Shirt_front.png
+│           │   └── Phoenix_Rebirth_T-Shirt_side.png
+│           ├── R2R-002
+│           │   ├── Resist_Forever_Hoodie_alt.png
+│           │   ├── Resist_Forever_Hoodie_back.png
+│           │   ├── Resist_Forever_Hoodie_front.png
+│           │   └── Resist_Forever_Hoodie_side.png
+│           ├── R2R-003
+│           │   ├── Rebel_Camo_Jacket_alt.png
+│           │   ├── Rebel_Camo_Jacket_back.png
+│           │   ├── Rebel_Camo_Jacket_front.png
+│           │   └── Rebel_Camo_Jacket_side.png
+│           ├── R2R-004
+│           │   ├── No_Chains_Long_Sleeve_alt.png
+│           │   ├── No_Chains_Long_Sleeve_back.png
+│           │   ├── No_Chains_Long_Sleeve_front.png
+│           │   └── No_Chains_Long_Sleeve_side.png
+│           ├── R2R-005
+│           │   ├── Resistance_Symbol_Tank_Top_alt.png
+│           │   ├── Resistance_Symbol_Tank_Top_back.png
+│           │   ├── Resistance_Symbol_Tank_Top_front.png
+│           │   └── Resistance_Symbol_Tank_Top_side.png
+│           ├── R2R-006
+│           │   ├── Resistance_Fist_Keychain_alt.png
+│           │   ├── Resistance_Fist_Keychain_back.png
+│           │   ├── Resistance_Fist_Keychain_front.png
+│           │   └── Resistance_Fist_Keychain_side.png
+│           ├── R2R-007
+│           │   ├── Phoenix_Flame_Enamel_Pin_alt.png
+│           │   ├── Phoenix_Flame_Enamel_Pin_back.png
+│           │   ├── Phoenix_Flame_Enamel_Pin_front.png
+│           │   └── Phoenix_Flame_Enamel_Pin_side.png
+│           ├── R2R-008
+│           │   ├── Never_Surrender_Wristband_alt.png
+│           │   ├── Never_Surrender_Wristband_back.png
+│           │   ├── Never_Surrender_Wristband_front.png
+│           │   └── Never_Surrender_Wristband_side.png
+│           ├── R2R-009
+│           │   ├── Embroidered_Rebel_Patch_alt.png
+│           │   ├── Embroidered_Rebel_Patch_back.png
+│           │   ├── Embroidered_Rebel_Patch_front.png
+│           │   └── Embroidered_Rebel_Patch_side.png
+│           ├── R2R-010
+│           │   ├── Freedom_Bandana_alt.png
+│           │   ├── Freedom_Bandana_back.png
+│           │   ├── Freedom_Bandana_front.png
+│           │   └── Freedom_Bandana_side.png
+│           ├── R2R-011
+│           │   ├── Phoenix_Rising_Poster_alt.png
+│           │   ├── Phoenix_Rising_Poster_back.png
+│           │   ├── Phoenix_Rising_Poster_front.png
+│           │   └── Phoenix_Rising_Poster_side.png
+│           ├── R2R-012
+│           │   ├── Fist_of_Resistance_Poster_alt.png
+│           │   ├── Fist_of_Resistance_Poster_back.png
+│           │   ├── Fist_of_Resistance_Poster_front.png
+│           │   └── Fist_of_Resistance_Poster_side.png
+│           ├── R2R-013
+│           │   ├── Rebellion_Quote_Poster_alt.png
+│           │   ├── Rebellion_Quote_Poster_back.png
+│           │   ├── Rebellion_Quote_Poster_front.png
+│           │   └── Rebellion_Quote_Poster_side.png
+│           ├── R2R-014
+│           │   ├── Reincarnated2Resist_Logo_Sticker_alt.png
+│           │   ├── Reincarnated2Resist_Logo_Sticker_back.png
+│           │   ├── Reincarnated2Resist_Logo_Sticker_front.png
+│           │   └── Reincarnated2Resist_Logo_Sticker_side.png
+│           └── R2R-015
+│               ├── Phoenix_Emblem_Sticker_alt.png
+│               ├── Phoenix_Emblem_Sticker_back.png
+│               ├── Phoenix_Emblem_Sticker_front.png
+│               └── Phoenix_Emblem_Sticker_side.png
+├── ACTUAL_MUSIC
+│   ├── audio
+│   │   ├── HAWK-FD-01
+│   │   │   └── swordfish.mp3
+│   │   ├── HAWK-FD-02
+│   │   │   └── mic_check.mp3
+│   │   ├── HAWK-FD-03
+│   │   │   └── shakur.mp3
+│   │   ├── HAWK-FD-04
+│   │   │   └── last_one_left.mp3
+│   │   ├── HAWK-FD-05
+│   │   │   └── full_disclosure.mp3
+│   │   ├── HAWK-FD-06
+│   │   │   └── lifted.mp3
+│   │   ├── HAWK-FD-07
+│   │   │   └── fuck_society.mp3
+│   │   ├── HAWK-FD-08
+│   │   │   └── ashes.mp3
+│   │   ├── HAWK-FD-09
+│   │   │   └── haunted.mp3
+│   │   ├── HAWK-FD-10
+│   │   │   └── monumental.mp3
+│   │   ├── HAWK-FD-11
+│   │   │   └── trafficked.mp3
+│   │   ├── HAWK-FD-12
+│   │   │   └── hocus_pocus.mp3
+│   │   ├── HAWK-FD-13
+│   │   │   └── syntax.mp3
+│   │   ├── HAWK-FD-14
+│   │   │   └── stay_real.mp3
+│   │   ├── HAWK-FD-15
+│   │   │   └── the_story_of_our_former_glory.mp3
+│   │   ├── HAWK-M-01
+│   │   │   └── soft_disclosure.mp3
+│   │   ├── HAWK-M-02
+│   │   │   └── abreactions.mp3
+│   │   ├── HAWK-M-03
+│   │   │   └── eyes_wide_open.mp3
+│   │   ├── HAWK-M-04
+│   │   │   └── delta_squad.mp3
+│   │   ├── HAWK-M-05
+│   │   │   └── implants.mp3
+│   │   ├── HAWK-M-06
+│   │   │   └── illuminati.mp3
+│   │   ├── HAWK-M-07
+│   │   │   └── fema.mp3
+│   │   ├── HAWK-M-08
+│   │   │   └── the_antidote.mp3
+│   │   ├── HAWK-M-09
+│   │   │   └── avalanche.mp3
+│   │   ├── HAWK-M-10
+│   │   │   └── artificial_intelligence.mp3
+│   │   ├── HAWK-M-11
+│   │   │   └── legion.mp3
+│   │   ├── HAWK-M-12
+│   │   │   └── when_my_elites_surround.mp3
+│   │   ├── HAWK-M-13
+│   │   │   └── reincarnated_2_resist.mp3
+│   │   ├── HAWK-ME-01
+│   │   │   └── malicious.mp3
+│   │   ├── HAWK-ME-02
+│   │   │   └── gang_shit.mp3
+│   │   ├── HAWK-ME-03
+│   │   │   └── the_motherfucking_problem.mp3
+│   │   ├── HAWK-ME-04
+│   │   │   └── im_him.mp3
+│   │   ├── HAWK-SB-01
+│   │   │   └── psychological_warfare.mp3
+│   │   ├── HAWK-SB-02
+│   │   │   └── down_the_rabbit_hole.mp3
+│   │   ├── HAWK-SB-03
+│   │   │   └── domestic_terrorist.mp3
+│   │   ├── HAWK-SB-04
+│   │   │   └── relentless.mp3
+│   │   ├── HAWK-SB-05
+│   │   │   └── never_heard_of_me.mp3
+│   │   ├── HAWK-SB-06
+│   │   │   └── spiteful_poetry.mp3
+│   │   ├── HAWK-SB-07
+│   │   │   └── the_devils_in_the_details.mp3
+│   │   ├── HAWK-SB-08
+│   │   │   └── the_game.mp3
+│   │   ├── HAWK-SB-09
+│   │   │   └── the_shadow_is_rising.mp3
+│   │   ├── HAWK-SB-10
+│   │   │   └── when_shit_gets_real.mp3
+│   │   ├── HAWK-SB-11
+│   │   │   └── synthesis.mp3
+│   │   ├── HAWK-SB-12
+│   │   │   └── invokation.mp3
+│   │   ├── HAWK-SB-13
+│   │   │   └── krystal_klear.mp3
+│   │   ├── HAWK-SG-01
+│   │   │   └── will_you_listen.mp3
+│   │   ├── HAWK-SG-02
+│   │   │   └── psyops.mp3
+│   │   ├── HAWK-SG-03
+│   │   │   └── Incantations.mp3
+│   │   ├── HAWK-SG-04
+│   │   │   └── MindControl.mp3
+│   │   ├── HAWK-SG-05
+│   │   │   └── return_of_kings.mp3
+│   │   └── HAWK-SG-06
+│   │       └── politicians.mp3
+│   └── music_files.txt
+├── E-Light
+│   ├── Everlight_JoplinAgent_DevPlan-checkpoint.ipynb
+│   ├── Everlight_JoplinAgent_DevPlan.ipynb
+│   ├── EverLightsCriticalSynopsis.ipynb
+│   ├── EverLightsInitialThoughts.ipynb
+│   ├── Everlights_Outline_Fixed-checkpoint.ipynb
+│   ├── Everlights_Outline_Fixed.ipynb
+│   ├── Everlights_Outline.ipynb
+│   ├── EverLightsRite.ipynb
+│   ├── EverLightsRite_TheMixtapeSessions.ipynb
+│   ├── Everlight_Starter-checkpoint.ipynb
+│   ├── Everlight_Starter.ipynb
+│   ├── EverLight_Sync_Engine (1).ipynb
+│   ├── EverLight_Sync_Engine_20250411_070946_20250414_144846_20250414_145050.ipynb
+│   ├── EverLight_Sync_Engine_20250414_144846_20250414_145050.ipynb
+│   ├── EverLight_Sync_Engine-checkpoint_20250411_070946_20250414_144846_20250414_145050.ipynb
+│   ├── EverLight_Sync_Engine-checkpoint_20250411_080041_20250414_144846_20250414_145050.ipynb
+│   ├── EverLight_Sync_Engine-checkpoint_20250414_144846_20250414_145050.ipynb
+│   └── EverLight_Template.ipynb
+├── HAWK-ARS-00
+│   ├── 01_singles
+│   │   ├── 01_will_you_listen.ipynb
+│   │   ├── 01_will_you_listen.md
+│   │   ├── 02_psyops.ipynb
+│   │   ├── 02_psyops.md
+│   │   ├── 03_incantations.ipynb
+│   │   ├── 03_incantations.md
+│   │   ├── 04_mind_kontrol.ipynb
+│   │   ├── 04_mind_kontrol.md
+│   │   ├── 05_return_of_kings.ipynb
+│   │   ├── 05_return_of_kings.md
+│   │   ├── 06_politicians.ipynb
+│   │   ├── 06_politicians.md
+│   │   ├── 07_the_vow.ipynb
+│   │   └── 07_the_vow.md
+│   ├── 02_mixtape_sessions
+│   │   ├── 01_full_disclosure
+│   │   │   ├── 01_swordfish.ipynb
+│   │   │   ├── 01_swordfish.md
+│   │   │   ├── 02_mic_check.ipynb
+│   │   │   ├── 02_mic_check.md
+│   │   │   ├── 03_shakur.ipynb
+│   │   │   ├── 03_shakur.md
+│   │   │   ├── 04_last_one_left.ipynb
+│   │   │   ├── 04_last_one_left.md
+│   │   │   ├── 05_full_disclosure.ipynb
+│   │   │   ├── 05_full_disclosure.md
+│   │   │   ├── 06_lifted.ipynb
+│   │   │   ├── 06_lifted.md
+│   │   │   ├── 07_fuck_society.ipynb
+│   │   │   ├── 07_fuck_society.md
+│   │   │   ├── 08_ashes.ipynb
+│   │   │   ├── 08_ashes.md
+│   │   │   ├── 09_haunted.ipynb
+│   │   │   ├── 09_haunted.md
+│   │   │   ├── 10_monumental.ipynb
+│   │   │   ├── 10_monumental.md
+│   │   │   ├── 11_trafficked.ipynb
+│   │   │   ├── 11_trafficked.md
+│   │   │   ├── 11_trafficked_web.md
+│   │   │   ├── 12_hocus_pocus.ipynb
+│   │   │   ├── 12_hocus_pocus.md
+│   │   │   ├── 13_syntax.ipynb
+│   │   │   ├── 13_syntax.md
+│   │   │   ├── 14_stay_real.ipynb
+│   │   │   ├── 14_stay_real.md
+│   │   │   ├── 15_the_story_of_our_former_glory.ipynb
+│   │   │   ├── 15_the_story_of_our_former_glory.md
+│   │   │   ├── EverLightsCriticalSynopsis.ipynb
+│   │   │   └── FullDisclosure_Arsenal.md
+│   │   ├── 02_behold_a_pale_horse
+│   │   │   ├── 01_warning_shots.ipynb
+│   │   │   ├── 01_warning_shots.md
+│   │   │   ├── 02_behold_a_pale_horse.ipynb
+│   │   │   ├── 02_behold_a_pale_horse.md
+│   │   │   ├── 03_kamikaze.ipynb
+│   │   │   ├── 03_kamikaze.md
+│   │   │   ├── 04_whistleblower.ipynb
+│   │   │   ├── 04_whistleblower.md
+│   │   │   ├── 05_superstitions.ipynb
+│   │   │   ├── 05_superstitions.md
+│   │   │   ├── 06_scripture.ipynb
+│   │   │   ├── 06_scripture.md
+│   │   │   ├── 07_menace_to_society.ipynb
+│   │   │   ├── 07_menace_to_society.md
+│   │   │   ├── 08_semi-automatic.ipynb
+│   │   │   ├── 08_semi-automatic.md
+│   │   │   ├── 09_reverse_this_curse.ipynb
+│   │   │   ├── 09_reverse_this_curse.md
+│   │   │   ├── 10_kt.ipynb
+│   │   │   ├── 10_kt.md
+│   │   │   ├── 11_the_story_celebrated_throughout_time.ipynb
+│   │   │   ├── 11_the_story_celebrated_throughout_time.md
+│   │   │   ├── BeholdAPaleHorse_Arsenal.md
+│   │   │   ├── EverLightsInitialThoughts.ipynb
+│   │   │   ├── EverLightsInitialThoughts.md
+│   │   │   ├── EverLightsRite.ipynb
+│   │   │   └── EverLightsRite.md
+│   │   ├── 03_milabs
+│   │   │   ├── 01_soft_disclosure.ipynb
+│   │   │   ├── 01_soft_disclosure.md
+│   │   │   ├── 02_abreactions.ipynb
+│   │   │   ├── 02_abreactions.md
+│   │   │   ├── 03_eyes_wide_open.ipynb
+│   │   │   ├── 03_eyes_wide_open.md
+│   │   │   ├── 04_delta_squad.ipynb
+│   │   │   ├── 04_delta_squad.md
+│   │   │   ├── 05_implants.ipynb
+│   │   │   ├── 05_implants.md
+│   │   │   ├── 06_illuminati.ipynb
+│   │   │   ├── 06_illuminati.md
+│   │   │   ├── 07_fema.ipynb
+│   │   │   ├── 07_fema.md
+│   │   │   ├── 08_the_antidote.ipynb
+│   │   │   ├── 08_the_antidote.md
+│   │   │   ├── 09_avalanche.ipynb
+│   │   │   ├── 09_avalanche.md
+│   │   │   ├── 10_artificial_intelligence.ipynb
+│   │   │   ├── 10_artificial_intelligence.md
+│   │   │   ├── 11_legion.ipynb
+│   │   │   ├── 11_legion.md
+│   │   │   ├── 12_when_my_elites_surround.ipynb
+│   │   │   ├── 12_when_my_elites_surround.md
+│   │   │   ├── 13_reincarnated_2_resist.ipynb
+│   │   │   ├── 13_reincarnated_2_resist.md
+│   │   │   ├── EverLightsRite_TheMixtapeSessions.ipynb
+│   │   │   ├── EverLightsRite_TheMixtapeSessions.md
+│   │   │   └── Milabs_Arsenal.md
+│   │   ├── EverLightsRite_TheMixtapeSessions.md
+│   │   ├── FullDisclosure_Critical.md
+│   │   ├── Full_Disclosure.md
+│   │   ├── Hawk Eye The Rapper – Behold a Pale Horse_ Inspire.md
+│   │   ├── Hawk Eye The Rapper – Full Disclosure_ A Tribute t.md
+│   │   ├── Hawk Eye The Rapper – Milabs_ Honoring Dr. Karla T.md
+│   │   ├── Mixtape_Sessions_Archive.md
+│   │   ├── MixtapeSessions_Arsenal.md
+│   │   ├── README.md
+│   │   └── Unmasking Reality_ Hawk Eye The Rapper_s _Mixtape .md
+│   ├── 03_phase2
+│   │   ├── 04_malicious
+│   │   │   ├── 01_malicious.ipynb
+│   │   │   ├── 01-malicious.md
+│   │   │   ├── 02_gang_shit.ipynb
+│   │   │   ├── 02-gang_shit.md
+│   │   │   ├── 03_the_motherfucking_problem.ipynb
+│   │   │   ├── 03-the_motherfucking_problem.md
+│   │   │   ├── 04_im_him.ipynb
+│   │   │   ├── 04-im_him.md
+│   │   │   └── Malicious_Arsenal.md
+│   │   ├── 05_shadow_banned
+│   │   │   ├── 001psychwar.md
+│   │   │   ├── 01_psychological_warfare.ipynb
+│   │   │   ├── 01_psychological_warfare.md
+│   │   │   ├── 02_down_the_rabbit_hole.ipynb
+│   │   │   ├── 02_down_the_rabbit_hole.md
+│   │   │   ├── 03_domestic_terrorist.ipynb
+│   │   │   ├── 03_domestic_terrorist.md
+│   │   │   ├── 04_relentless.ipynb
+│   │   │   ├── 04_relentless.md
+│   │   │   ├── 05_never_heard_of_me.ipynb
+│   │   │   ├── 05_never_heard_of_me.md
+│   │   │   ├── 06_spiteful_poetry.ipynb
+│   │   │   ├── 06_spiteful_poetry.md
+│   │   │   ├── 07_devils_in_the_details.md
+│   │   │   ├── 07_the_devils_in_the_details.ipynb
+│   │   │   ├── 08_the_game.ipynb
+│   │   │   ├── 08_the_game.md
+│   │   │   ├── 09_the_shadow_is_rising.ipynb
+│   │   │   ├── 09_the_shadow_is_rising.md
+│   │   │   ├── 10_when_shit_gets_real.ipynb
+│   │   │   ├── 10_when_shit_gets_real.md
+│   │   │   ├── 11_synthesis.ipynb
+│   │   │   ├── 11_synthesis.md
+│   │   │   ├── 12_invokation.ipynb
+│   │   │   ├── 12_invokation.md
+│   │   │   ├── 13_krystal_klear.ipynb
+│   │   │   ├── 13_krystal_klear.md
+│   │   │   └── Shadow_Banned_Arsenal.md
+│   │   └── Phase2_Arsenal.md
+│   ├── 04_reckoning
+│   │   ├── SunBook.ipynb
+│   │   └── Sun_Tzu.ipynb
+│   ├── EverLights_Rite_Dissection
+│   │   ├── Behold_A_Pale_Horse.md
+│   │   ├── Full_Disclosure.md
+│   │   ├── Malicious_EP.md
+│   │   ├── MILABS.md
+│   │   ├── Shadow_Banned.md
+│   │   └── Singles_Arc.md
+│   ├── EverLights_Rite_Dissection_Archive
+│   │   ├── Behold_A_Pale_Horse.md
+│   │   ├── Full_Disclosure.md
+│   │   ├── Malicious_EP.md
+│   │   ├── MILABS.md
+│   │   ├── Phase_II_Hypothesis.md
+│   │   ├── Singles.md
+│   │   └── The_Mixtape_Sessions.md
+│   ├── EverLights_Rite_Dissection_Interlinked
+│   │   ├── BAPH.md
+│   │   ├── Full_Disclosure.md
+│   │   ├── Malicious.md
+│   │   ├── MILABS.md
+│   │   ├── Phase_II.md
+│   │   ├── README.md
+│   │   └── Singles.md
+│   ├── hawk-arsenal.txt
+│   ├── HawkEye_EverLight_Catalog_Commentary
+│   │   ├── 00_Intro
+│   │   │   └── README.md
+│   │   ├── 01_Full_Disclosure
+│   │   │   └── EverLights_Rite.md
+│   │   ├── 02_MILABS
+│   │   │   └── EverLights_Rite.md
+│   │   ├── 03_Malicious_EP
+│   │   │   └── EverLights_Rite.md
+│   │   ├── 04_Singles
+│   │   │   └── EverLights_Rite.md
+│   │   ├── 05_The_Vow_EP
+│   │   │   └── EverLights_Rite.md
+│   │   └── Z_PHAS2_Hypothesis
+│   │       └── PHASE_2_Foreshadowing.md
+│   ├── HAWKEYETHERAPPER_VoiceOfAGeneration.md
+│   ├── Main_Arsenal_Index.md
+│   ├── Master_Index.ipynb
+│   ├── README.md
+│   └── The_Archive.ipynb
+├── tree_imports2.txt
+├── tree_imports.txt
+└── WebDev
+    ├── H2_20250414_154431.ipynb
+    ├── H2-checkpoint.ipynb
+    ├── Hawk_Eye_Digital_Empire_20250414_154431.ipynb
+    ├── Hawk_Eye_Digital_Empire-checkpoint.ipynb
+    ├── Hawk_Eye_Digital_Empire.ipynb
+    ├── Hawk_Eye_Digital_Empire_Prefilled_v2_20250414_154431.ipynb
+    ├── Hawk_Eye_Digital_Empire_Prefilled_v2-checkpoint.ipynb
+    ├── Hawk_Eye_Digital_Empire_Prefilled_v2.ipynb
+    ├── HAWKEYERAPS.ipynb
+    ├── Hawk_Eye_SunTzu_20250414_154431.ipynb
+    ├── Hawk_Eye_SunTzu-checkpoint.ipynb
+    ├── hawkeyetherapper.app.ipynb
+    ├── hawkeyetherapper.blog.ipynb
+    ├── hawkeyetherapper.com.ipynb
+    ├── HAWKEYETHERAPPER.ipynb
+    ├── hawkeyetherapper.live.ipynb
+    ├── hawkeyetherapper.net.ipynb
+    ├── hawkeyetherapper.store.ipynb
+    ├── Hawk_Master_Playbook-checkpoint.ipynb
+    ├── Hawk_Master_Playbook.ipynb
+    ├── HawkOmniver_Scripts-checkpoint.ipynb
+    ├── HawkOmniver_Scripts.ipynb
+    ├── HawkPlayTalk_20250414_144846_20250414_145050.ipynb
+    ├── HawkPlayTalk-checkpoint_20250411_070946_20250414_144846_20250414_145050.ipynb
+    ├── HawkPlayTalk-checkpoint_20250414_144846_20250414_145050.ipynb
+    ├── HawkPlayTalk-checkpoint.ipynb
+    ├── HawkPlayTalk.ipynb
+    ├── Home_Page-checkpoint.ipynb
+    ├── Home_Page.ipynb
+    ├── Index-checkpoint_20250410_222100_20250414_144846_20250414_145050.ipynb
+    ├── Index-checkpoint_20250414_144846_20250414_145050.ipynb
+    ├── Index-checkpoint.ipynb
+    ├── Index.ipynb
+    ├── Lyric_Annotations.ipynb
+    ├── Martyr_Mechanism_4D_Ops.ipynb
+    ├── Master_Index.ipynb
+    ├── Master_Notebook.ipynb
+    └── Merch_Integration.ipynb
+
+195 directories, 595 files

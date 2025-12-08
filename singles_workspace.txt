@@ -1,0 +1,52 @@
+HAWK-ARS-01/_workspace/01_Singles
+├── 01_will-you-listen
+│   ├── 01_will-you-listen.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 02_psyops
+│   ├── 02_psyops.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 03_incantations
+│   ├── 03_incantations.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 04_mind-kontrol
+│   ├── 04_mind-kontrol.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 05_return-of-kings
+│   ├── 05_return-of-kings.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 06_politicians
+│   ├── 06_politicians.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+└── 07_the-vow
+    ├── 07_the-vow.ipynb
+    ├── audio
+    ├── data
+    ├── images
+    ├── README.md
+    └── video
+
+36 directories, 14 files

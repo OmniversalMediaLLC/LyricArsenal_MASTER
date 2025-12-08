@@ -1,0 +1,93 @@
+HAWK-ARS-03/_workspace/02_Shadow_Banned
+├── 01_psychological-warfare
+│   ├── 01_psychological-warfare.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 02_down-the-rabbit-hole
+│   ├── 02_down-the-rabbit-hole.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 03_domestic-terrorist
+│   ├── 03_domestic-terrorist.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 04_relentless
+│   ├── 04_relentless.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 05_never-heard-of-me
+│   ├── 05_never-heard-of-me.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 06_spiteful-poetry
+│   ├── 06_spiteful-poetry.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 07_devils-in-the-details
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 08_the-game
+│   ├── 08_the-game.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 09_the-shadow-is-rising
+│   ├── 09_the-shadow-is-rising.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 10_when-shit-gets-real
+│   ├── 10_when-shit-gets-real.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 11_synthesis
+│   ├── 11_synthesis.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+├── 12_invokation
+│   ├── 12_invokation.ipynb
+│   ├── audio
+│   ├── data
+│   ├── images
+│   ├── README.md
+│   └── video
+└── 13_krystal-klear
+    ├── 13_krystal-klear.ipynb
+    ├── audio
+    ├── data
+    ├── images
+    ├── README.md
+    └── video
+
+66 directories, 25 files

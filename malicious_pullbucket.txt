@@ -1,0 +1,11 @@
+HAWK-ARS-03/_pull-bucket/01_Malicious_EP
+├── 01_malicious.json
+├── 01_malicious.md
+├── 02_gang-shit.json
+├── 02_gang-shit.md
+├── 03_the-motherfucking-problem.json
+├── 03_the-motherfucking-problem.md
+├── 04_im-him.json
+└── 04_im-him.md
+
+1 directory, 8 files

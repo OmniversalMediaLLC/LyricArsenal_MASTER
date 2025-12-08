@@ -1,0 +1,209 @@
+.
+├── 01_singles
+│   ├── 01_will_you_listen.ipynb
+│   ├── 01_will_you_listen.md
+│   ├── 02_psyops.ipynb
+│   ├── 02_psyops.md
+│   ├── 03_incantations.ipynb
+│   ├── 03_incantations.md
+│   ├── 04_mind_kontrol.ipynb
+│   ├── 04_mind_kontrol.md
+│   ├── 05_return_of_kings.ipynb
+│   ├── 05_return_of_kings.md
+│   ├── 06_politicians.ipynb
+│   ├── 06_politicians.md
+│   ├── 07_the_vow.ipynb
+│   └── 07_the_vow.md
+├── 02_mixtape_sessions
+│   ├── 01_full_disclosure
+│   │   ├── 01_swordfish.ipynb
+│   │   ├── 01_swordfish.md
+│   │   ├── 02_mic_check.ipynb
+│   │   ├── 02_mic_check.md
+│   │   ├── 03_shakur.ipynb
+│   │   ├── 03_shakur.md
+│   │   ├── 04_last_one_left.ipynb
+│   │   ├── 04_last_one_left.md
+│   │   ├── 05_full_disclosure.ipynb
+│   │   ├── 05_full_disclosure.md
+│   │   ├── 06_lifted.ipynb
+│   │   ├── 06_lifted.md
+│   │   ├── 07_fuck_society.ipynb
+│   │   ├── 07_fuck_society.md
+│   │   ├── 08_ashes.ipynb
+│   │   ├── 08_ashes.md
+│   │   ├── 09_haunted.ipynb
+│   │   ├── 09_haunted.md
+│   │   ├── 10_monumental.ipynb
+│   │   ├── 10_monumental.md
+│   │   ├── 11_trafficked.ipynb
+│   │   ├── 11_trafficked.md
+│   │   ├── 11_trafficked_web.md
+│   │   ├── 12_hocus_pocus.ipynb
+│   │   ├── 12_hocus_pocus.md
+│   │   ├── 13_syntax.ipynb
+│   │   ├── 13_syntax.md
+│   │   ├── 14_stay_real.ipynb
+│   │   ├── 14_stay_real.md
+│   │   ├── 15_the_story_of_our_former_glory.ipynb
+│   │   ├── 15_the_story_of_our_former_glory.md
+│   │   ├── EverLightsCriticalSynopsis.ipynb
+│   │   └── FullDisclosure_Arsenal.md
+│   ├── 02_behold_a_pale_horse
+│   │   ├── 01_warning_shots.ipynb
+│   │   ├── 01_warning_shots.md
+│   │   ├── 02_behold_a_pale_horse.ipynb
+│   │   ├── 02_behold_a_pale_horse.md
+│   │   ├── 03_kamikaze.ipynb
+│   │   ├── 03_kamikaze.md
+│   │   ├── 04_whistleblower.ipynb
+│   │   ├── 04_whistleblower.md
+│   │   ├── 05_superstitions.ipynb
+│   │   ├── 05_superstitions.md
+│   │   ├── 06_scripture.ipynb
+│   │   ├── 06_scripture.md
+│   │   ├── 07_menace_to_society.ipynb
+│   │   ├── 07_menace_to_society.md
+│   │   ├── 08_semi-automatic.ipynb
+│   │   ├── 08_semi-automatic.md
+│   │   ├── 09_reverse_this_curse.ipynb
+│   │   ├── 09_reverse_this_curse.md
+│   │   ├── 10_kt.ipynb
+│   │   ├── 10_kt.md
+│   │   ├── 11_the_story_celebrated_throughout_time.ipynb
+│   │   ├── 11_the_story_celebrated_throughout_time.md
+│   │   ├── BeholdAPaleHorse_Arsenal.md
+│   │   ├── EverLightsInitialThoughts.ipynb
+│   │   ├── EverLightsInitialThoughts.md
+│   │   ├── EverLightsRite.ipynb
+│   │   └── EverLightsRite.md
+│   ├── 03_milabs
+│   │   ├── 01_soft_disclosure.ipynb
+│   │   ├── 01_soft_disclosure.md
+│   │   ├── 02_abreactions.ipynb
+│   │   ├── 02_abreactions.md
+│   │   ├── 03_eyes_wide_open.ipynb
+│   │   ├── 03_eyes_wide_open.md
+│   │   ├── 04_delta_squad.ipynb
+│   │   ├── 04_delta_squad.md
+│   │   ├── 05_implants.ipynb
+│   │   ├── 05_implants.md
+│   │   ├── 06_illuminati.ipynb
+│   │   ├── 06_illuminati.md
+│   │   ├── 07_fema.ipynb
+│   │   ├── 07_fema.md
+│   │   ├── 08_the_antidote.ipynb
+│   │   ├── 08_the_antidote.md
+│   │   ├── 09_avalanche.ipynb
+│   │   ├── 09_avalanche.md
+│   │   ├── 10_artificial_intelligence.ipynb
+│   │   ├── 10_artificial_intelligence.md
+│   │   ├── 11_legion.ipynb
+│   │   ├── 11_legion.md
+│   │   ├── 12_when_my_elites_surround.ipynb
+│   │   ├── 12_when_my_elites_surround.md
+│   │   ├── 13_reincarnated_2_resist.ipynb
+│   │   ├── 13_reincarnated_2_resist.md
+│   │   ├── EverLightsRite_TheMixtapeSessions.ipynb
+│   │   ├── EverLightsRite_TheMixtapeSessions.md
+│   │   └── Milabs_Arsenal.md
+│   ├── EverLightsRite_TheMixtapeSessions.md
+│   ├── FullDisclosure_Critical.md
+│   ├── Full_Disclosure.md
+│   ├── Hawk Eye The Rapper – Behold a Pale Horse_ Inspire.md
+│   ├── Hawk Eye The Rapper – Full Disclosure_ A Tribute t.md
+│   ├── Hawk Eye The Rapper – Milabs_ Honoring Dr. Karla T.md
+│   ├── Mixtape_Sessions_Archive.md
+│   ├── MixtapeSessions_Arsenal.md
+│   ├── README.md
+│   └── Unmasking Reality_ Hawk Eye The Rapper_s _Mixtape .md
+├── 03_phase2
+│   ├── 04_malicious
+│   │   ├── 01_malicious.ipynb
+│   │   ├── 01-malicious.md
+│   │   ├── 02_gang_shit.ipynb
+│   │   ├── 02-gang_shit.md
+│   │   ├── 03_the_motherfucking_problem.ipynb
+│   │   ├── 03-the_motherfucking_problem.md
+│   │   ├── 04_im_him.ipynb
+│   │   ├── 04-im_him.md
+│   │   └── Malicious_Arsenal.md
+│   ├── 05_shadow_banned
+│   │   ├── 001psychwar.md
+│   │   ├── 01_psychological_warfare.ipynb
+│   │   ├── 01_psychological_warfare.md
+│   │   ├── 02_down_the_rabbit_hole.ipynb
+│   │   ├── 02_down_the_rabbit_hole.md
+│   │   ├── 03_domestic_terrorist.ipynb
+│   │   ├── 03_domestic_terrorist.md
+│   │   ├── 04_relentless.ipynb
+│   │   ├── 04_relentless.md
+│   │   ├── 05_never_heard_of_me.ipynb
+│   │   ├── 05_never_heard_of_me.md
+│   │   ├── 06_spiteful_poetry.ipynb
+│   │   ├── 06_spiteful_poetry.md
+│   │   ├── 07_devils_in_the_details.md
+│   │   ├── 07_the_devils_in_the_details.ipynb
+│   │   ├── 08_the_game.ipynb
+│   │   ├── 08_the_game.md
+│   │   ├── 09_the_shadow_is_rising.ipynb
+│   │   ├── 09_the_shadow_is_rising.md
+│   │   ├── 10_when_shit_gets_real.ipynb
+│   │   ├── 10_when_shit_gets_real.md
+│   │   ├── 11_synthesis.ipynb
+│   │   ├── 11_synthesis.md
+│   │   ├── 12_invokation.ipynb
+│   │   ├── 12_invokation.md
+│   │   ├── 13_krystal_klear.ipynb
+│   │   ├── 13_krystal_klear.md
+│   │   └── Shadow_Banned_Arsenal.md
+│   └── Phase2_Arsenal.md
+├── 04_reckoning
+│   ├── SunBook.ipynb
+│   └── Sun_Tzu.ipynb
+├── EverLights_Rite_Dissection
+│   ├── Behold_A_Pale_Horse.md
+│   ├── Full_Disclosure.md
+│   ├── Malicious_EP.md
+│   ├── MILABS.md
+│   ├── Shadow_Banned.md
+│   └── Singles_Arc.md
+├── EverLights_Rite_Dissection_Archive
+│   ├── Behold_A_Pale_Horse.md
+│   ├── Full_Disclosure.md
+│   ├── Malicious_EP.md
+│   ├── MILABS.md
+│   ├── Phase_II_Hypothesis.md
+│   ├── Singles.md
+│   └── The_Mixtape_Sessions.md
+├── EverLights_Rite_Dissection_Interlinked
+│   ├── BAPH.md
+│   ├── Full_Disclosure.md
+│   ├── Malicious.md
+│   ├── MILABS.md
+│   ├── Phase_II.md
+│   ├── README.md
+│   └── Singles.md
+├── hawk-arsenal.txt
+├── HawkEye_EverLight_Catalog_Commentary
+│   ├── 00_Intro
+│   │   └── README.md
+│   ├── 01_Full_Disclosure
+│   │   └── EverLights_Rite.md
+│   ├── 02_MILABS
+│   │   └── EverLights_Rite.md
+│   ├── 03_Malicious_EP
+│   │   └── EverLights_Rite.md
+│   ├── 04_Singles
+│   │   └── EverLights_Rite.md
+│   ├── 05_The_Vow_EP
+│   │   └── EverLights_Rite.md
+│   └── Z_PHAS2_Hypothesis
+│       └── PHASE_2_Foreshadowing.md
+├── HAWKEYETHERAPPER_VoiceOfAGeneration.md
+├── Main_Arsenal_Index.md
+├── Master_Index.ipynb
+├── README.md
+└── The_Archive.ipynb
+
+21 directories, 186 files
